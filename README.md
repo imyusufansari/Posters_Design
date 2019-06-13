@@ -10,5 +10,5 @@
 <img alt="Poster image" src="Kaivalya Posters\trackback-01.jpg" width="32%">
 <img alt="Poster image" src="Kaivalya Posters\devincco-01.jpg" width="32%">
 <img alt="Poster image" src="Kaivalya Posters\kaivalya_poster-01.jpg" width="32%">
-<img alt="Poster image" src="Kaivalya Posters\int.jpg" width="32%" hspace='275'>
+<img alt="Poster image" src="Kaivalya Posters\int.jpg" width="32%" hspace='282'>
 </div>
